@@ -20,13 +20,13 @@ fi
 HOME=/home/build
 
 BIN_JAVA=java
-BIN_MINSIGNAPK=$HOME/delta/minsignapk.jar
-BIN_XDELTA=$HOME/delta/xdelta3
-BIN_ZIPADJUST=$HOME/delta/zipadjust
+BIN_MINSIGNAPK=$HOME/maxi/minsignapk.jar
+BIN_XDELTA=$HOME/maxi/xdelta3
+BIN_ZIPADJUST=$HOME/maxi/zipadjust
 
-FILE_MATCH=omni-*.zip
-PATH_CURRENT=$HOME/omni/out/target/product/$DEVICE
-PATH_LAST=$HOME/delta/last/$DEVICE
+FILE_MATCH=MaxiCM-*.zip
+PATH_CURRENT=$HOME/maxi/out/target/product/$DEVICE
+PATH_LAST=$HOME/maxi/last/$DEVICE
 
 KEY_X509=$HOME/.keys/platform.x509.pem
 KEY_PK8=$HOME/.keys/platform.pk8
