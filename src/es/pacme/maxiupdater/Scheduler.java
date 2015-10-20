@@ -52,7 +52,7 @@ import android.content.SharedPreferences;
 import android.os.SystemClock;
 import android.preference.PreferenceManager;
 
-import eu.chainfire.opendelta.ScreenState.OnScreenStateListener;
+import es.pacme.maxiupdater.ScreenState.OnScreenStateListener;
 
 import java.text.SimpleDateFormat;
 import java.util.Date;
