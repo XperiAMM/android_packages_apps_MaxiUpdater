@@ -45,10 +45,10 @@ import android.os.SystemClock;
 import android.preference.PreferenceManager;
 import android.text.TextUtils;
 
-import eu.chainfire.opendelta.BatteryState.OnBatteryStateListener;
-import eu.chainfire.opendelta.NetworkState.OnNetworkStateListener;
-import eu.chainfire.opendelta.Scheduler.OnWantUpdateCheckListener;
-import eu.chainfire.opendelta.ScreenState.OnScreenStateListener;
+import es.pacme.maxiupdater.BatteryState.OnBatteryStateListener;
+import es.pacme.maxiupdater.NetworkState.OnNetworkStateListener;
+import es.pacme.maxiupdater.Scheduler.OnWantUpdateCheckListener;
+import es.pacme.maxiupdater.ScreenState.OnScreenStateListener;
 
 import org.apache.http.HttpResponse;
 import org.apache.http.client.HttpClient;
