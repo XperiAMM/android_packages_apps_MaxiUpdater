@@ -8,7 +8,7 @@
 extern "C" {
 #endif
 /*
- * Class:     eu_chainfire_opendelta_Native
+ * Class:     es_pacme_maxiupdater_Native
  * Method:    zipadjust
  * Signature: (Ljava/lang/String;Ljava/lang/String;I)I
  */
